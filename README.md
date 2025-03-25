@@ -13,8 +13,8 @@ A full-stack Task Management application built using the MERN stack (MongoDB, Ex
 
 ## Live Application
 
-Task Management Application (https://task-management-orcin-six.vercel.app/)
-Server (https://task-management-server-s336.onrender.com/)
+- Task Management Application (https://task-management-orcin-six.vercel.app/)
+- Server (https://task-management-server-s336.onrender.com/)
 
 ## Prerequisites
 
