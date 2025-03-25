@@ -6,8 +6,6 @@ A full-stack Task Management application built using the MERN stack (MongoDB, Ex
 
 <img width="982" alt="Screenshot 2025-03-25 at 3 48 31 PM" src="https://github.com/user-attachments/assets/3a3dc7c3-cfca-40f2-b7ed-81ff3e9a6bf2" />
 
-![Task Management App Screenshot](./frontend/src/assets/UI.png "Task Management App UI")
-
 ## Features
 
 - Create new tasks
