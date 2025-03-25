@@ -4,6 +4,8 @@
 
 A full-stack Task Management application built using the MERN stack (MongoDB, Express, React, Node.js).
 
+![Task Management App Screenshot](./frontend/src/assets/UI.png "Task Management App UI")
+
 ## Features
 
 - Create new tasks
